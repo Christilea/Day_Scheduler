@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const today = new Date();
   const day = today.getDay();
   const daylist = ["Sunday","Monday","Tuesday","Wednesday ","Thursday","Friday","Saturday"];
@@ -34,3 +35,6 @@ const today = new Date();
   } 
   } 
 console.log(`Current Time : ${hour}${prepand} : ${minute} : ${second}`);
+=======
+
+>>>>>>> 9c8e9d9cd54e354ddeae2a30ee16722345f1c377

@@ -1,2 +1,0 @@
-# dayscheduler
-Workday Scheduler

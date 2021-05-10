@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var todayDate = moment().format('dddd, MMM Do YYYY');
 $("#currentDay").html(todayDate);
 
@@ -53,3 +54,6 @@ $(document).ready(function () {
 
     timeTracker();
 })
+=======
+
+>>>>>>> 9c8e9d9cd54e354ddeae2a30ee16722345f1c377
